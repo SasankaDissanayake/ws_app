@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291444006846",
+    "project_id": "wedding-stage-app",
+    "storage_bucket": "wedding-stage-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291444006846:android:e68373fe662bc4d65f23ef",
+        "android_client_info": {
+          "package_name": "lk.weddingstage.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj8LDe1VFk8_E2LVsEN_YVhXN84WZWUOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291444006846:android:9e0569f9e322890f5f23ef",
+        "android_client_info": {
+          "package_name": "lk.weddingstage.moderator_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj8LDe1VFk8_E2LVsEN_YVhXN84WZWUOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
